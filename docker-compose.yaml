@@ -15,7 +15,7 @@ services:
     image: mysql:5.7
     restart: unless-stopped
     environment:
-      MYSQL_ROOT_PASSWORD: password
+      MYSQL_ROOT_PASSWORD: test
       MYSQL_DATABASE: database
       MYSQL_USER: user
       MYSQL_PASSWORD: password
