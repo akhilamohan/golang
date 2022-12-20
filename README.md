@@ -17,5 +17,10 @@ cd golang/pkg/controller
 go test .
 ```
 
+## Running the application
 
+```
+cd golang
+make docker-down
+```
 
