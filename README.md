@@ -1,5 +1,5 @@
 ## Prerequisites
-* go 1.19 should be installed on the setup where unit tests are executed
+* go 1.19 and make should be installed on the setup where unit tests are executed
 * make and docker should be installed on the setup to run application
 
 ## Run unit tests
